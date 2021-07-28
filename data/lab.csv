@@ -1,4 +1,4 @@
-﻿pat_id,lab_date,labreport_name,labitems_code,labitems_name,value
+﻿pat_id,lab_date,labreport_name,labitems_code,labitems_name,lab_value
 P_0000001,2021-06-29 00:00:00,血糖,1591,HbA1c,6.4
 P_0000001,2021-06-29 00:00:00,血糖,600,空腹静脉血糖,4.3
 P_0000001,2021-01-26 09:58:19,糖化血红蛋白,1591,糖化血红蛋白A1c,6.2
