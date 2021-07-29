@@ -1,4 +1,4 @@
-﻿pat_id,lab_date,labreport_name,labitems_code,labitems_name,value
+﻿pat_id,lab_date,labreport_name,labitems_code,labitems_name,lab_value
 P_0000001,2020-07-02 09:15:29,糖化血红蛋白,1591,糖化血红蛋白A1c,8.30
 P_0000001,2019-11-16 11:18:23,糖化血红蛋白（住院）,1591,糖化血红蛋白A1c,8.9
 P_0000001,2018-11-20 17:30:27,糖化血红蛋白,1591,糖化血红蛋白A1c,10.1
